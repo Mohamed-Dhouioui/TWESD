@@ -1,4 +1,7 @@
 # TWESD Workshop - TensorFlow Lite Model Optimization for On-Device Machine Learning
+<p align="center">
+  <img src="TWESD.png" width="350" title="hover text">
+</p>
 
 This repository contains two folders: 
 
