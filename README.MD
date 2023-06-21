@@ -1,4 +1,4 @@
-# Deep Learning Models Repository
+# TWESD Workshop - TensorFlow Lite Model Optimization for On-Device Machine Learning
 
 This repository contains two folders: 
 
@@ -29,3 +29,8 @@ Make sure you have the following dependencies installed:
 
 ```shell
 git clone https://github.com/Mohamed-Dhouioui/TWESD.git
+```
+You can also download the repository as a zip file and extract it.
+
+As for the presentation slides, you can find them in the following link:
+https://my.visme.co/view/y4zqj77x-twesd

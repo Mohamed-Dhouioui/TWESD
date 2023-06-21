@@ -14,4 +14,4 @@ python run.py -m <model_name> -i <image_path> -s <image_size>
 ```
 For example:
 ```shell
-python run.py -m CNN model creation\int_quant_model.tflite -i Images\Te-gl_0036.jpg -s 180
+python run.py -m "CNN model creation\int_quant_model.tflite" -i Images\Te-gl_0036.jpg -s 180
